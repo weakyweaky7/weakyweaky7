@@ -2,4 +2,4 @@
 
 💻 ML Engineer focused on Computer Vision, NLP, and MLOps.
 
-**Core Stack:** Python · PyTorch · OpenCV · scikit-learn · FASTAPI · pandas · MLflow · Docker
+**Core Stack:** Python · PyTorch · OpenCV · scikit-learn · FastAPI · pandas · MLflow · Docker
