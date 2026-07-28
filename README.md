@@ -1,5 +1,5 @@
-# Hi there 👋
+# Hi, I'm Danial
 
-💻 Aspiring ML Engineer focused on Computer Vision, NLP, and MLOps.
+Aspiring ML Engineer focused on Computer Vision, NLP, and MLOps.
 
-**Core Stack:** Python, PyTorch, scikit-learn, Transformers, MLflow, Docker.
+**Core Stack:** Python · PyTorch · scikit-learn · pandas · Transformers · MLflow · Docker
