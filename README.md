@@ -1,4 +1,5 @@
-# Danial Ruspekov
+# Hi there 👋
+
 
 Aspiring ML Engineer specializing in Computer Vision, NLP, and classical Machine Learning.
 
